@@ -1,4 +1,4 @@
-# Projection-Compensating Chirplet Transform (PCCT)
+# PCCT
 
 MATLAB code for reproducing selected time-frequency representations presented in the paper on the Projection-Compensating Chirplet Transform (PCCT). The code includes a simulated signal with overlapping components and a real whale signal.
 
